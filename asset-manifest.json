@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jawline-cm/static/css/main.78eee4d0.css",
-    "main.js": "/jawline-cm/static/js/main.44cfed09.js",
+    "main.js": "/jawline-cm/static/js/main.d519ab85.js",
     "index.html": "/jawline-cm/index.html",
     "main.78eee4d0.css.map": "/jawline-cm/static/css/main.78eee4d0.css.map",
-    "main.44cfed09.js.map": "/jawline-cm/static/js/main.44cfed09.js.map"
+    "main.d519ab85.js.map": "/jawline-cm/static/js/main.d519ab85.js.map"
   },
   "entrypoints": [
     "static/css/main.78eee4d0.css",
-    "static/js/main.44cfed09.js"
+    "static/js/main.d519ab85.js"
   ]
 }
